@@ -1,0 +1,27 @@
+- name: "Our Humble Beginnings"
+  image: "1.jpg"
+  img-alt: "image description"
+  year: "2009-2011"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: left
+
+- name: "An Agency is Born"
+  image: "2.jpg"
+  img-alt: "image description"
+  year: "March 2011"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: right
+
+- name: "Transition to Full Service"
+  image: "3.jpg"
+  img-alt: "image description"
+  year: "December 2012"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: left
+
+- name: "Phase Two Expansion"
+  image: "4.jpg"
+  img-alt: "image description"
+  year: "July 2014"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: right
