@@ -1,8 +1,8 @@
 # Agency Jekyll Theme
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes` and your sass in `_sass`. To experiment with this code, add some sample content in the yaml files in `_data` and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+Welcome to Agency Jekyll Theme! To experiment with this code, add some sample content in the yaml files in `_data` and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
 
-[Agency Jekyll Theme](http://github.com/laklau/agency-jekyll-theme/tree/gh-pages) is a jekyll theme gem, the jekyllization by [Adab1ts] (http://github.com/adab1ts) of Agency theme.
+[Agency Jekyll Theme](http://github.com/laklau/agency-jekyll-theme/tree/gh-pages) is a jekyll theme [gem](https://rubygems.org/gems/agency-jekyll-theme), the jekyllization by [Adab1ts] (http://github.com/adab1ts) of Agency theme.
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
@@ -32,8 +32,8 @@ Or install it yourself as:
 
 ## Usage
 
-This theme is a single page with several includes (one for each section)
-The content is en '_data' folder, ready to be customizated with you information.
+This theme is a single page with several includes (one for each section).
+The content is in '_data' folder, ready to be customizated with you information.
 
 ## Contributing
 
