@@ -7,7 +7,7 @@
 
 title: Agency Jekyll Theme
 email: your-mail@your-domain.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "author:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -20,7 +20,9 @@ github_username:  laklau
 # Build settings
 
 markdown: kramdown
-theme: agency-jekyll-theme
+
+#theme: agency-jekyll-theme #The "agency-jekyll-theme" is not supported by GitHub Pages. 
+
 gems:
   - jekyll-feed
 exclude:
