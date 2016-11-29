@@ -1,12 +1,14 @@
 # Agency Jekyll Theme
 
-Welcome to Agency Jekyll Theme! To experiment with this code, add some sample content in the yaml files in `_data` and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+Welcome to Agency Jekyll Theme!
 
-[Agency Jekyll Theme](http://github.com/laklau/agency-jekyll-theme/tree/gh-pages) is a jekyll theme [gem](https://rubygems.org/gems/agency-jekyll-theme), the jekyllization by [Adab1ts] (http://github.com/adab1ts) of Agency theme.
+[Agency](https://github.com/BlackrockDigital/startbootstrap-agency.git) is a one page agency portfolio theme for Bootstrap created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a contact form.
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Agency Jekyll Theme](http://github.com/laklau/agency-jekyll-theme/tree/gh-pages) is a jekyll theme [gem](https://rubygems.org/gems/agency-jekyll-theme), La Klau's jekyllization of Agency theme.
 
-This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a contact form.
+The [Github repository](http://github.com/laklau/agency-jekyll-theme/) is organized in two branches. The master branch contains the original theme and is updated with the latest version available. The gh-pages branch contains the jekyllizated theme.
+
+
 
 ## Installation
 
@@ -33,7 +35,10 @@ Or install it yourself as:
 ## Usage
 
 This theme is a single page with several includes (one for each section).
-The content is in '_data' folder, ready to be customizated with you information.
+
+The content is in the yaml files in '_data' folder, ready to be customized with you information.
+
+To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
 
 ## Contributing
 
@@ -44,8 +49,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/laklau
 To set up your environment to develop this theme, run `bundle install`.
 
 You theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
 ## License
 
