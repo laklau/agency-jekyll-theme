@@ -36,7 +36,7 @@ Or install it yourself as:
 
 This theme is a single page with several includes (one for each section).
 
-The content is in the yaml files in '_data' folder, ready to be customized with you information.
+The content is in the yaml files in '_data' folder, ready to be customized with your information.
 
 To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
 
