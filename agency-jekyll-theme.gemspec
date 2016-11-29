@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = 'agency-jekyll-theme'
-  spec.version       = '0.1.0'
+  spec.version       = '0.1.0.1'
   spec.authors       = ["Klaudia Alvarez"]
   spec.email         = 'klaudia.devel@gmail.com'
   spec.summary       = "Agency Jekyll Theme is a jekyll theme gem, based on Agency theme created by Start Bootstrap."
