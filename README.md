@@ -1,55 +1,37 @@
-# Agency Jekyll Theme
+# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
-Welcome to Agency Jekyll Theme!
+[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
-[Agency](https://github.com/BlackrockDigital/startbootstrap-agency.git) is a one page agency portfolio theme for Bootstrap created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a contact form.
+## Getting Started
 
-[Agency Jekyll Theme](http://github.com/laklau/agency-jekyll-theme/tree/gh-pages) is a jekyll theme [gem](https://rubygems.org/gems/agency-jekyll-theme), La Klau's jekyllization of Agency theme.
+Several options are available to get started quickly:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
+* Fork the repo
 
-The [Github repository](http://github.com/laklau/agency-jekyll-theme/) is organized in two branches. The master branch contains the original theme and is updated with the latest version available. The gh-pages branch contains the jekyllizated theme.
+## Developing Using Source Files
 
+To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
+* Run `npm install` in the root directory
+* Run `gulp dev` and edit the files as needed
 
+If you need to update the plugins included with this template, simply run the following tasks:
+* First run `npm update` to update the dependencies
+* Then run `gulp copy` to copy the new versions to their proper destinations
 
-## Installation
+## Bugs and Issues
 
-Add this line to your Jekyll site's Gemfile:
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
 
-```ruby
-gem "agency-jekyll-theme"
-```
+## Creator
 
-And add this line to your Jekyll site's `_config.yml`:
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-```yaml
-theme: agency-jekyll-theme
-```
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-And then execute:
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-    $ bundle
+## Copyright and License
 
-Or install it yourself as:
-
-    $ gem install agency-jekyll-theme
-
-## Usage
-
-This theme is a single page with several includes (one for each section).
-
-The content is in the yaml files in '_data' folder, ready to be customized with your information.
-
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/laklau/agency-jekyll-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-You theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
