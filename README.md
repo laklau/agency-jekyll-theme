@@ -8,7 +8,7 @@ Welcome to Agency Jekyll Theme!
 
 The [Github repository](http://github.com/laklau/agency-jekyll-theme/) is organized in two branches. The master branch contains the original theme and is updated with the latest version available. The gh-pages branch contains the jekyllizated theme.
 
-
+![Agency theme thumbnail](/screenshot.png "Agency theme screenshot")
 
 ## Installation
 
