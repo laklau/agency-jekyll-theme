@@ -1,6 +1,4 @@
 _site
 .sass-cache
 .jekyll-metadata
-agency-jekyll-theme.gemspec
-Gemfile.lock
 *.gem
